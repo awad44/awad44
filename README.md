@@ -24,6 +24,15 @@
 - 🧠 Focused on writing clean, maintainable, and scalable software
 - 🚀 Always learning new technologies and building practical projects
 
+### 🌱 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -43,7 +52,7 @@
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,laravel" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
 ### Database
@@ -69,6 +78,7 @@
 A full-stack network diagnostics platform designed to make networking tools easier to understand and use.
 
 **Features:**
+
 - Network health testing
 - Ping & DNS diagnostics
 - Traceroute
@@ -137,31 +147,9 @@ Responsive web project for an exchange service with a clean and user-friendly in
 
 <p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=awad44&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=awad44&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=awad44&theme=tokyonight&hide_border=true"
+    alt="Mouatassem Awad GitHub Streak"
   />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
